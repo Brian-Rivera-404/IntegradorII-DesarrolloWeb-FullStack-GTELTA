@@ -11,7 +11,7 @@ Plataforma de selección de personal para candidatos, reclutadores y administrad
 ### Integrantes
 
 | Integrante |
-|---|
+
 | Bartolome Angelo Prado Misaico |
 | Rivera Bautista Brian Alexis |
 | Menendez Reinoso Oscar Sebastian |
